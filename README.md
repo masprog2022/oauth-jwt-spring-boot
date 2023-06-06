@@ -1,6 +1,6 @@
 ## Passo a passo
 
-1 - Clonar o repositório `git clone https://github.com/danileao/spring_auth_youtube.git`
+1 - Clonar o repositório `git clone https://github.com/masprog2022/oauth-jwt-spring-boot.git`
 
 2 - Rodar `mvn clean install` para instalar as dependências
 
